@@ -119,13 +119,13 @@ div#menu{
     font-size: 13px;
     text-align: center;
     height: 30px;
-    width: calc(4% + 30px);    ;
+    min-width: 55px;
     list-style: none;  
     display: inline-block;
 }
 
 #header #menu ul li:nth-child(6){
-    margin-right: 15%;
+    margin-right: 220px;
 }
 
 #header #menu ul a{
